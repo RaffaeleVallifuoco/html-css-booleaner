@@ -1,14 +1,26 @@
+main{
+    text-align: center;
+    width: 80vw;
+}
+
 .logo-back {
+    width: 2000px;
+    height: 150px;
     background-image: url(/img/pattern.png);
-    width: 600px;
+    background-size: cover;
     margin-bottom: 30;
 }
 
 .logo {
-    width: 60%;
+    width: 300px;
+    text-align: center;
+   
 }
+
+
 main,h1 {
     margin-bottom: 3px;
+
 }
 
 .photo{
@@ -25,6 +37,11 @@ main,h1 {
    margin-bottom: 30px;
 }
 
+.list {
+    margin-bottom: 30px;
+    text-align: left;
+}
+
 
 .tab-head {
     background-color: rgb(119, 165, 246);
@@ -34,6 +51,7 @@ main,h1 {
 .main-table {
    width: 1500px;
    height: 120px;
+   margin-bottom: 30px;
 
 }
 
