@@ -1,8 +1,12 @@
 .logo-back {
     background-image: url(/img/pattern.png);
     width: 600px;
-   
+}
 
 .logo {
     width: 60%;
+}
+
+.booleaner {
+    color: blue;
 }
