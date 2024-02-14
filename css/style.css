@@ -1,15 +1,28 @@
 .logo-back {
     background-image: url(/img/pattern.png);
     width: 600px;
-    
+    margin-bottom: 30;
 }
 
 .logo {
     width: 60%;
 }
+main,h1 {
+    margin-bottom: 3px;
+}
+
+.photo{
+    margin-top: 30px;
+}
 
 .booleaner {
+   
     color: rgb(75, 123, 206);
+}
+
+.photo-source {
+   height: 30px;
+   margin-bottom: 30px;
 }
 
 
@@ -26,4 +39,18 @@
 
 .lightblue{
     background-color: rgba(186, 217, 229, 0.5);
+}
+
+
+footer{
+    
+    height: 30px;
+    background-color: rgb(40, 40, 109);
+    color: white;
+    text-align: center;
+    ;
+}
+
+.copyright {
+    text-align: center;
 }
