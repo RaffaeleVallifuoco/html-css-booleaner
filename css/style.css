@@ -12,9 +12,9 @@ main{
 }
 
 .logo {
-    width: 300px;
+    width: 400px;
     text-align: center;
-   
+
 }
 
 
@@ -62,7 +62,7 @@ main,h1 {
 
 footer{
     
-    height: 30px;
+    height: 40px;
     background-color: rgb(40, 40, 109);
     color: white;
     text-align: center;
