@@ -18,8 +18,10 @@
     color: white;
 }
 
-.col-item {
-    
+.main-table {
+   width: 1500px;
+   height: 120px;
+
 }
 
 .lightblue{
