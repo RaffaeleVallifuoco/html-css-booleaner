@@ -1,6 +1,7 @@
 .logo-back {
     background-image: url(/img/pattern.png);
     width: 600px;
+    
 }
 
 .logo {
@@ -9,4 +10,18 @@
 
 .booleaner {
     color: rgb(75, 123, 206);
+}
+
+
+.tab-head {
+    background-color: rgb(119, 165, 246);
+    color: white;
+}
+
+.col-item {
+    
+}
+
+.lightblue{
+    background-color: rgba(186, 217, 229, 0.5);
 }
